@@ -5,6 +5,15 @@ public:
     X(){}
     int k;
 };
+
+
+class Y{
+
+public:
+    Y(){}
+    int k;
+};
+
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
